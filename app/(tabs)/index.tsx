@@ -23,7 +23,7 @@ export default function App() {
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Your successfully created Simple app</ThemedText>
         <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
+         Learn <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
           Press{' '}
           <ThemedText type="defaultSemiBold">
             {Platform.select({
